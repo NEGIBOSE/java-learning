@@ -1,3 +1,4 @@
+package sekachan;
 class Variable{
     public static void main(String[] args){
       int month;
