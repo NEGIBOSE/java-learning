@@ -2,7 +2,7 @@ package sekachan;
 
 class DataType{
     public static void main(String[] args){
-      int month = 12;
+      int month = 122;
       int day = 29;
       float weight = 63.0f;
       double height = 168.5;
