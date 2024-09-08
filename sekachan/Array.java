@@ -1,5 +1,5 @@
 package sekachan;
 
 public class Array {
-    int[] score
+    int[] score = new int[3];
 }
