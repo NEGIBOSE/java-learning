@@ -1,5 +1,5 @@
 package kinocode;
-class Student{
+class Student {
     String name;
 
     public double calculateAve(double[] data){

@@ -1,5 +1,5 @@
 package kinocode;
-class Student{
+class Student {
     String name = "sato";
 
     public void calculateAve(int math,int english){
