@@ -1,4 +1,5 @@
-package sekachan;
+
+
 
 /* FirstComment.java
    文字列を表示するプログラム
